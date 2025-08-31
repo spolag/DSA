@@ -24,6 +24,9 @@ public class Prefix1 {
 			}
 			System.out.println(sum);
 			
+			
+			
+			
 		}
 	}
 }
